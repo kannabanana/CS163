@@ -1,0 +1,7 @@
+wind surfing;is fun;hood river;3;y
+hiking;is exhausting;punchbowl falls;1;y
+strawberry picking;is yummy;sauvie island;2;n
+road trips;are annoying;bend;1;n
+swimming;is exciting;columbia;3;y
+cry;is sad;medford;1;n
+cry_still;is still sad;medford z;2;n
